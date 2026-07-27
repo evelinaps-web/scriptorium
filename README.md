@@ -1,4 +1,4 @@
-[README_2.md](https://github.com/user-attachments/files/30423618/README_2.md)
+[README_.md](https://github.com/user-attachments/files/30423618/README_2.md)
 # Скрипторий
 
 Скрипторий - Ваша мастерская для ваших идей. инструмент для писателей: текстовый редактор, конструктор диаграмм и куча всего разного. В разработке.
